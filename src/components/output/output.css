@@ -1,0 +1,9 @@
+.output{
+    height: 30px; 
+    width: 220px;
+    text-align: center;
+    line-height: 30px;
+    margin: 2px 42.7%;
+    border-radius: 10px;
+    background-color: rgb(164, 205, 247);
+}
